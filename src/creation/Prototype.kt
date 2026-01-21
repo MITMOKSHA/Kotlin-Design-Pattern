@@ -1,0 +1,4 @@
+package creation
+
+class Prototype {
+}
